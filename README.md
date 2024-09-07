@@ -22,9 +22,12 @@
    py manage.py migrate
 
 
-4. **Запуск приложения:**
+5. **Запуск приложения:**
    Запустите тестовый веб-сервер
    ```bash
    py manage.py runserver
 
+
+6. **Откройте в браузере:**
+   Перейдите по адресу [http://localhost:8000/main_menu](http://localhost:8000/main_menu) в вашем браузере.
    
